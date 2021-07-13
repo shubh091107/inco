@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  margin-left: 30px;
+  margin-top: 30px;
+  border: 5px;
+  border-style:groove;
+  padding: auto;
+}
+button{
+  display: inline;
+  border: groove;
+  size: 20px;
+}
